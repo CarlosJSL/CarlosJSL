@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [ZRP][website]!
 - 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Contribute more to Open Source projects
-<!--- ⚡ Fun fact: I love to play MMORPG's --->-
+<!--- ⚡ Fun fact: I love to play MMORPG's --->
 
 ### Connect with me:
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/facebook-social-media-fb-logo-square-44659.png" />][facebook]
