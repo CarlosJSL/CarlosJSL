@@ -33,7 +33,7 @@
 
 ---
 
-<img align="left" alt="CarlosJSL Github Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosJSL&show_icons=true&hide_border=true" />
+<img align="left" alt="CarlosJSL Github Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosJSL&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://zrp.com.br/
 [twitter]: https://twitter.com/carlosjsl8
