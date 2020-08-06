@@ -35,6 +35,10 @@
 
 <img align="left" alt="CarlosJSL Github Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosJSL&show_icons=true&hide_border=true&count_private=true" />
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjsl)](https://github.com/carlosjsl/github-readme-stats)
+
+
 [website]: https://zrp.com.br/
 [twitter]: https://twitter.com/carlosjsl8
 [linkedin]: https://www.linkedin.com/in/carlos-jos%C3%A9-949687116/
