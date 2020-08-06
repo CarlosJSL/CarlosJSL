@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer
 
-- 🔭 I’m currently working on a [ZRP][website]!
+- 🔭 I’m currently working at [ZRP][website]!
 - 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Contribute more to Open Source projects
 <!--- ⚡ Fun fact: I love to play MMORPG's --->
