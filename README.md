@@ -37,7 +37,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjsl)](https://github.com/carlosjsl/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=CarlosJSL)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosJSL&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 [website]: https://zrp.com.br/
 [facebook]: https://www.facebook.com/carlos.jose.9081
