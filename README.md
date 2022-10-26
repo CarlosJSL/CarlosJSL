@@ -3,7 +3,7 @@
 ## I'm a Software Engineer
 
 - 🔭 I’m currently working at [Questrade financial group][website]!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 <!--- ⚡ Fun fact: I love to play MMORPG's --->
 
 ### Connect with me:
