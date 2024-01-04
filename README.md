@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer
 
-- 🔭 I’m currently working at [Questrade financial group][website]!
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working at [Mindera][website]!
+- 🥅 2024 Goals: Contribute more to Open Source projects
 <!--- ⚡ Fun fact: I love to play MMORPG's --->
 
 ### Connect with me:
@@ -39,7 +39,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosJSL&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[website]: https://www.questrade.com/about-us
+[website]: https://mindera.com/
 [facebook]: https://www.facebook.com/carlos.jose.9081
 [twitter]: https://twitter.com/carlosjsl8
 [linkedin]: https://www.linkedin.com/in/carlos-jos%C3%A9-949687116/
